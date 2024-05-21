@@ -1,8 +1,3 @@
-# username - ofirfoggel
-# id1      - 315721332
-# name1    - Ofir Foggel
-
-
 """A class represnting a node in an AVL tree"""
 
 
